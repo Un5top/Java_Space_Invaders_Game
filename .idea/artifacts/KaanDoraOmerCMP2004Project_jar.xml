@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KaanDoraOmerCMP2004Project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KaanDoraOmerCMP2004Project_jar</output-path>
+    <root id="archive" name="KaanDoraOmerCMP2004Project.jar">
+      <element id="module-output" name="KaanDoraOmerCMP2004Project" />
+      <element id="dir-copy" path="$PROJECT_DIR$/res" />
+    </root>
+  </artifact>
+</component>
